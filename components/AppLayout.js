@@ -195,7 +195,7 @@ const AppLayout = props => {
               textAlign: "center"
             }}
           >
-           <Image src="https://stat.dinamalar.com/new/mobile/dmrenglishlogonewdark.png" alt="me" width="175" height="69" />
+          mail logo
           </div>
         </Header>
         <Content // you may want to change these
